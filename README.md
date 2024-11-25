@@ -24,99 +24,54 @@ My name is Sarang and I'm a Front-end web developer and web designer with a stro
 # 🔧 Technologies & Tools
 
 <table>
-  <tr>
-  
+    <tr>
         <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-        width="48"
-        height="48"
-        alt="React"
-      />
-      <br /><strong>HTML</strong>
-    </td>
-	
-	    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-        width="48"
-        height="48"
-        alt="React"
-      />
-      <br /><strong>CSS</strong>
-    </td>
-	
-	    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-        width="48"
-        height="48"
-        alt="React"
-      />
-      <br /><strong>JS</strong>
-    </td>
-    
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-        width="48"
-        height="48"
-        alt="React"
-      />
-      <br /><strong>React</strong>
-    </td>
-    
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
-        width="48"
-        height="48"
-        alt="Tailwind"
-      />
-      <br /><strong>Tailwind</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
-        width="48"
-        height="48"
-        alt="Material UI"
-      />
-      <br /><strong>Material UI</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-        width="48"
-        height="48"
-        alt="Node"
-      />
-      <br /><strong>Node</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
-        width="48"
-        height="48"
-        alt="Express"
-      />
-      <br /><strong>Express</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-        width="48"
-        height="48"
-        alt="MongoDB"
-      />
-      <br /><strong>MongoDB</strong>
-    </td>
-    
-   
-
-  </tr>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48"
+                height="48" alt="React" />
+            <br /><strong>HTML</strong>
+        </td>
+        <td align="center" height="108" width="108">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48"
+                height="48" alt="React" />
+            <br /><strong>CSS</strong>
+        </td>
+        <td align="center" height="108" width="108">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+                width="48" height="48" alt="React" />
+            <br /><strong>JS</strong>
+        </td>
+        <td align="center" height="108" width="108">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48"
+                height="48" alt="React" />
+            <br /><strong>React</strong>
+        </td>
+        <td align="center" height="108" width="108">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
+                width="48" height="48" alt="Tailwind" />
+            <br /><strong>Tailwind</strong>
+        </td>
+        <td align="center" height="108" width="108">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="48"
+                height="48" alt="Material UI" />
+            <br /><strong>Material UI</strong>
+        </td>
+        <td align="center" height="108" width="108">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48"
+                height="48" alt="Node" />
+            <br /><strong>Node</strong>
+        </td>
+        <td align="center" height="108" width="108">
+            <img src="https://placehold.co/48x48/white/black?text=es" width="48"
+                height="48" alt="Express"/>
+      		</svg>
+            <br /><strong>Express</strong>
+        </td>
+        <td align="center" height="108" width="108">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48"
+                height="48" alt="MongoDB" />
+            <br /><strong>MongoDB</strong>
+        </td>
+    </tr>
 </table>
 
 # 📈 Stats 
