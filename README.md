@@ -22,7 +22,7 @@ My name is Sarang and I'm a Front-end web developer and web designer with a stro
 <a href="https://www.linkedin.com/in/sarang-kakkoth-3b56039a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 
 # 🔧 Technologies & Tools
-<div style="width: 100%; overflow-x: auto;">
+
 <table style="width: 100%; border-collapse: collapse;">
     <tr>
         <td align="center" height="108" width="108">
@@ -40,6 +40,8 @@ My name is Sarang and I'm a Front-end web developer and web designer with a stro
                 width="48" height="48" alt="React" />
             <br /><strong>JS</strong>
         </td>
+    </tr>
+    <tr>
         <td align="center" height="108" width="108">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48"
                 height="48" alt="React" />
@@ -55,6 +57,8 @@ My name is Sarang and I'm a Front-end web developer and web designer with a stro
                 height="48" alt="Material UI" />
             <br /><strong>Material UI</strong>
         </td>
+    </tr>
+    <tr>
         <td align="center" height="108" width="108">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48"
                 height="48" alt="Node" />
@@ -73,7 +77,7 @@ My name is Sarang and I'm a Front-end web developer and web designer with a stro
         </td>
     </tr>
 </table>
-</div>
+
 # 📈 Stats 
 
 ![](https://komarev.com/ghpvc/?username=sarang13579)
