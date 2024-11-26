@@ -39,9 +39,7 @@ My name is Sarang and I'm a Front-end web developer and web designer with a stro
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
                 width="48" height="48" alt="React" />
             <br /><strong>JS</strong>
-        </td>
-    </tr>
-    <tr>
+        </td>     
         <td align="center" height="108" width="108">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48"
                 height="48" alt="React" />
@@ -52,13 +50,13 @@ My name is Sarang and I'm a Front-end web developer and web designer with a stro
                 width="48" height="48" alt="Tailwind" />
             <br /><strong>Tailwind</strong>
         </td>
+    </tr>
+    <tr>
         <td align="center" height="108" width="108">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="48"
                 height="48" alt="Material UI" />
             <br /><strong>Material UI</strong>
         </td>
-    </tr>
-    <tr>
         <td align="center" height="108" width="108">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48"
                 height="48" alt="Node" />
